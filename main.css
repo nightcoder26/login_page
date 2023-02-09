@@ -1,0 +1,65 @@
+#div{
+    background-image: url("BACKGROUND.jpeg");
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    height: 470px;
+    margin:10px 10px 10px 10px;
+}
+
+
+.labels{
+    color: rgb(206, 0, 0);
+    font-family: 'Ephesis';
+    font-weight: 600;
+    font-size:2em;
+    padding: 20px 20px 20px 20px;
+    margin:20px 20px 20px 20px ;
+}
+#sub{
+    font-family: 'Ephesis';
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    font-weight: 600;
+}
+#heading{
+    color: rgb(0, 0, 255);
+    font-family:'Ephesis';
+    font-weight: 700;
+    font-size:3em;
+    padding: 30px 30px 30px 30px;
+    margin:30px 30px 30px 30px ;
+}
+.labels-gender{
+    color: rgb(0, 0, 0);
+    font-family: 'Ephesis';
+    font-weight: 600;
+    font-size:2em;
+
+}
+#textarea{
+    margin: 20px 20px 20px 20px;
+}
+
+
+.buttons{
+    background-color:rgb(255, 255, 255) ;
+    border: 1px black solid;
+    color: rgb(0, 0, 0);
+    /* padding: 5px 5px 5px 5px; */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 4px 4px 4px;
+    height: 30px;
+    width: 100px;
+    font-family: 'Ephesis';
+    font-weight: 600;
+    font-size:150%;
+}
+#span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
